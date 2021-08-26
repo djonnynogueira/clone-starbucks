@@ -1,4 +1,4 @@
-### Projeto: Starbucks (com Flexbox e Grid)
+# Projeto: Starbucks (com Flexbox e Grid)
 
 - Html
 - CSS
